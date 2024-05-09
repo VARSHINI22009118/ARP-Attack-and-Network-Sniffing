@@ -38,6 +38,11 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
+```
+NAME : VARSHINI S A
+REGISTER NUMBER : 212222100059
+```
+
 ![image](https://github.com/VARSHINI22009118/ARP-Attack-and-Network-Sniffing/assets/119401150/bace1489-0a4a-4e3e-a11e-aac894e3ec1f)
 
 
